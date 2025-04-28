@@ -1,4 +1,8 @@
 # MiPrimeraRepo
+
+## Bienvenido
+
 Repo creada para el curso de Koki
 
-Bienvenido
+Autor: Saul Romero
+
